@@ -3,8 +3,9 @@
   <h1 align="center">Cryptos</h1>
 </p>
 <p align="center">A perfect website for those who want to invest in cryptos</p>
+
 ## 📙 Stay in touch
 
 - Author - [Marc Medrano](https://twitter.com/MarcMedrano15)
-- Website - [In development](https://github.com/In development/)
+- Website - [In development](https://github.com/elmarcz/Cryptos/blb/main/README.md)
 - Twitter - [@Sammwy](https://twitter.com/MarcMedrano15)
