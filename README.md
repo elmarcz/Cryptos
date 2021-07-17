@@ -16,5 +16,5 @@
 ## 📙 Stay in touch
 
 - Author - [Marc Medrano](https://www.flowcode.com/page/elmarc)
-- Website - [In development](https://github.com/elmarcz/Cryptos/blb/main/README.md)
+- Personal Discord - [In development](https://discord.gg/qBXUtT8Kte)
 - Twitter - [@M4RC](https://twitter.com/MarcMedrano15)
