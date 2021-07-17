@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://dot.2lstudios.dev/" target="blank"><img src="https://raw.githubusercontent.com/elmarcz/Cryptos/main/Cryptos.png" width="160" alt="Dot Logo" /></a>
-  <h1 align="center">[Cryptos](https://elmarcz.github.io/Cryptos/)</h1>
+  <h1 align="center" href="https://elmarcz.github.io/Cryptos/">Cryptos</h1>
 </p>
 <p align="center">A perfect website for those who want to invest in cryptos</p>
 
