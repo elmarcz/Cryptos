@@ -6,11 +6,11 @@
 
 ## 📝 Description
 
-[Cryptos](https://github.com/elmarcz/Cryptos/blb/main/README.md) is a resource for cryptocurrency lovers. Its super simple design to make it more minimalist gives an amazing touch to the website.
+[Cryptos](https://elmarcz.github.io/Cryptos/) is a resource for cryptocurrency lovers. Its super simple design to make it more minimalist gives an amazing touch to the website.
 
 ## 💼 Cryptos social networks
 
-- Website - [In development](https://github.com/elmarcz/Cryptos/blb/main/README.md)
+- Website - [In development](https://elmarcz.github.io/Cryptos/)
 - Twitter - [@Cryptos](https://twitter.com/Deathland)
 
 ## 📙 Stay in touch
