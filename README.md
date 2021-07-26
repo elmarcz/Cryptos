@@ -8,6 +8,8 @@
 
 [Cryptos](https://elmarcz.github.io/Cryptos/) is a resource for cryptocurrency lovers. Its super simple design to make it more minimalist gives an amazing touch to the website.
 
+## ⚙ Frequently Asked Questions
+
 ## 💼 Cryptos social networks
 
 - Website - [In development](https://elmarcz.github.io/Cryptos/)
