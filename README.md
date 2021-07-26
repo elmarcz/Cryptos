@@ -3,6 +3,12 @@
   <h1 align="center" href="https://elmarcz.github.io/Cryptos/">Cryptos</h1>
 </p>
 <p align="center">A perfect website for those who want to invest in cryptos</p>
+<h3 align="center">🔨 Built with ⚙️</h3>
+<p align="center">
+   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='50px'/>
+   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='50px'>
+  </p>
+
 
 ## 📝 Description
 
