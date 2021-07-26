@@ -10,12 +10,27 @@
 
 ## ⚙ Frequently Asked Questions
 
+Will Cryptos contain more than one cryptocurrency?
+```
+Yes, Cryptos will contain more than one cryptocurrency and its tracking.
+```
+
+How can I log in to the website?
+```
+Currently their website is still under development but you can access it by clicking in the logo.
+```
+
+Will Cryptos be paid for?
+```
+No, but a paid version will probably be released in the future.
+```
+
 ## 💼 Cryptos social networks
 
 - Website - [In development](https://elmarcz.github.io/Cryptos/)
 - Twitter - [@Cryptos](https://twitter.com/Deathland)
 
-## 📙 Stay in touch
+## 📱 Stay in touch
 
 - Author - [Marc Medrano](https://www.flowcode.com/page/elmarc)
 - Personal Discord - [In development](https://discord.gg/qBXUtT8Kte)
