@@ -78,22 +78,19 @@
 				background-color: #A62828;
 			}
 				</style>
+			<select
+				onChange="cotizarMoneda()"
+				id="moneda"
+			>
+			<option value="">- Seleccione -</option>
+			<option value="USD">- Dolar EEUU -</option>
+			<option value="EUR">- Euro -</option>
+			</select>
+			<label>Elije tu criptomoneda</label>
+			<select
+				onChange="cotizarMoneda()"
+			></select>
 
-	
-               
-	<!-- Botones Medianos -->
-	<a href="Bitcoin.html" class="button blue medium radius">
-		<span class="icon-house"></span>Bitcoin
-	</a>
-
-	<a href="dv.html" class="button yellow medium radius">
-		<span class="icon-warning"></span>Etherum
-	</a>
-
-	<a href="dv.html" class="button medium radius">
-		<span class="icon-code"></span>Ripple XRP
-	</a>
-	<br>
 	
 	
 	<br>
@@ -169,6 +166,7 @@
 				</li>
 			</ul>
 		</nav>
+		
     </body>
     <footer>
         Todos los derechos reservados Cryptos ©
